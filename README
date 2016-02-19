@@ -1,0 +1,6 @@
+#!/bin/bash
+#note:
+#1.you should install sdat2img,make_ext4fs,rimg2sdat and etc files
+#2.you should put the cm-*-dior.zip,del_app.txt,del_lib.txt,del_priv-app.txt and makesimplifiedzippackage.sh,
+#totaling five files,in the same directory,then run this script as root
+#zalois@126.com

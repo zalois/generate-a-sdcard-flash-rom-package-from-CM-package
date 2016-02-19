@@ -1,0 +1,16 @@
+BasicDreams
+Browser
+CMWallpapers
+Calendar
+DocumentsUI
+DownloadProviderUi
+Email
+Exchange2
+HTMLViewer
+LatinIME
+LiveWallpapers
+LiveWallpapersPicker
+Stk
+UserDictionaryProvider
+Terminal
+WAPPushManager
